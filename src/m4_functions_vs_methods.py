@@ -212,6 +212,7 @@ def try_methods_and_functions():
     #     draw_many_squares
     #   function defined above.  If you don't see why, ** ASK FOR HELP. **
     ###########################################################################
+
     bulbasaur=rg.SimpleTurtle()
     bulbasaur.pen=rg.Pen('blue',5)
     bulbasaur.backward(100)
